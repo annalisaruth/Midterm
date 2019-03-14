@@ -1,0 +1,60 @@
+.First{
+float:right;
+margin-right: 900px;
+margin-bottom:40px;
+margin-left:200px;
+
+}
+
+#h1 {
+border-bottom:gray 2px solid;
+
+}
+
+#p1 {
+
+margin-left:200px;
+}
+
+.Table {
+float:right;
+margin-right:900px;
+margin-bottom:40px;
+margin-left:200px;
+border: gray 2px solid;
+background: #BEE0EB;
+
+}
+
+#h2 {
+border-bottom:gray 2px solid;
+color:red;
+
+}
+#caption{
+	float:right;
+}
+img {
+	height: 300px;
+	width: 300px;
+	float:right;
+}
+
+#reference {
+	color: blue;
+	border-bottom: gray 2px solid;
+ }
+
+
+.img {
+
+	width:300px;
+	height:350px;
+	text-align:center;
+	padding-bottom:30px;
+	float:right;
+}
+a {
+
+	text-decoration:none;
+}
